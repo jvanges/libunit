@@ -1,0 +1,6 @@
+*.o
+*.a
+unit_tests
+unit_tests_bonus
+real_tests
+*.log
